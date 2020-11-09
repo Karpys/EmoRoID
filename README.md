@@ -1,0 +1,2 @@
+# EmoRoID
+c++ project
